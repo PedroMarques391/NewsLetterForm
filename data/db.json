@@ -1,0 +1,12 @@
+{
+  "users": [
+    { "id": "1", "name": "João Silva", "email": "joao.silva@example.com" },
+    { "id": "2", "name": "Maria Oliveira", "email": "maria.oliveira@example.com" },
+    { "id": "3", "name": "Lucas Pereira", "email": "lucas.pereira@example.com" },
+    { "id": "4", "name": "Ana Souza", "email": "ana.souza@example.com" },
+    { "id": "5", "name": "Pedro Santos", "email": "pedro.santos@example.com" },
+    { "id": "6", "name": "Mariana Costa", "email": "mariana.costa@example.com" },
+    { "id": "7", "name": "Rafael Lima", "email": "rafael.lima@example.com" },
+    { "id": "8", "name": "Isabela Almeida", "email": "isabela.almeida@example.com" }
+  ]
+}
